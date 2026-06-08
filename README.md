@@ -16,7 +16,7 @@ School Principal & CBSE Resource Person, now exploring data science and ed-tech.
 - Web development (this profile's portfolio is hand-built — check it out below 👇)
 
 ### 🛠️ Toolkit
-`Python` · `SQL` · `HTML/CSS/JS` · `Git & GitHub`
+`Python` · `SQL` · `HTML/CSS/JS` · `Excel` ·`Git & GitHub`
 
 ### 🤝 Let's connect
 - 🌐 Portfolio: [your site link]
